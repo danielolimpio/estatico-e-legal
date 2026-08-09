@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-hostinger
+  cancel-in-progress: false
 
 jobs:
   build-and-deploy:
@@ -23,18 +28,31 @@ jobs:
       - name: Build do projeto
         run: npm run build
 
-      - name: Mostrar arquivos gerados
-        run: ls -la dist/
+      - name: Verificar arquivos gerados
+        run: |
+          ls -la dist/
+          test -f dist/index.html || { echo "ERRO: dist/index.html não gerado"; exit 1; }
+          test -f dist/.htaccess || { echo "ERRO: dist/.htaccess não gerado"; exit 1; }
 
-      - name: Deploy FTP para Hostinger
+      - name: Deploy FTP para Hostinger (limpeza total + cópia completa)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_HOST }}
           port: 21
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
+          protocol: ftp
           local-dir: ./dist/
           server-dir: /
+          # Apaga tudo no servidor e reenvia 100% dos arquivos a cada deploy
           dangerous-clean-slate: true
+          # Nome de state fixo: como o clean-slate apaga o servidor,
+          # o arquivo de state nunca sobrevive e nada é "pulado" por diff
+          state-name: .ftp-deploy-sync-state.json
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
           dry-run: false
           log-level: verbose
+
