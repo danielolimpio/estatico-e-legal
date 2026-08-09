@@ -4,7 +4,7 @@ const Privacidade = () => (
   <ProductPage
     slug="privacidade"
     title="Política de Privacidade | Aurum Foundation"
-    description="Política de Privacidade da Aurum Foundation: como coletamos, usamos e protegemos seus dados pessoais no ecossistema cripto, NeoBank e Exchange."
+    description="Política de Privacidade da Aurum Foundation: como tratamos dados pessoais conforme LGPD e padrões internacionais."
     keywords="privacidade Aurum, política de privacidade Aurum Foundation, LGPD, GDPR cripto, dados pessoais"
     h1="Política de Privacidade"
     subtitle="Como a Aurum Foundation coleta, utiliza, armazena e protege seus dados pessoais."

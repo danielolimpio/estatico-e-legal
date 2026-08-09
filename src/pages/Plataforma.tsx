@@ -6,8 +6,8 @@ const Plataforma = () => (
     heroImage={hero}
     heroImageAlt="Plataforma Aurum Foundation - ecossistema cripto com IA, exchange e neobank"
     slug="plataforma"
-    title="Plataforma Aurum Foundation | Ecossistema Cripto com IA"
-    description="Conheça a plataforma Aurum Foundation: exchange, neobank, bots de IA, cartões cripto e gestão de liquidez em um único ecossistema integrado."
+    title="▲ Plataforma Aurum: 1 Conta, 8 Produtos Cripto"
+    description="▲ Plataforma Aurum Foundation: 1 conta única para exchange, neobank, bots de IA e cartões cripto. Backoffice com relatórios em tempo real."
     keywords="plataforma Aurum, ecossistema Aurum Foundation, plataforma cripto, exchange cripto, neobank, bots IA"
     h1="Plataforma Aurum Foundation"
     subtitle="Um ecossistema completo que une exchange institucional, banco Web 3.0, inteligência artificial e cartões cripto em uma única experiência."

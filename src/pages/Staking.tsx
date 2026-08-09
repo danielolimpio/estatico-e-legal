@@ -6,8 +6,8 @@ const Staking = () => (
     heroImage={stakingHero}
     heroImageAlt="App Aurum Foundation - acompanhe rendimentos do Aurum Staking em tempo real"
     slug="staking"
-    title="Aurum Staking | Renda Passiva em Cripto na Aurum Foundation"
-    description="Aurum Staking: ganhe rendimentos passivos com criptomoedas na Aurum Foundation. Plataforma segura, transparente e com retornos competitivos."
+    title="▲ Aurum Staking: Renda Passiva em Cripto 24/7"
+    description="▲ Aurum Staking: rendimento passivo em cripto com custódia institucional. Compare prazos, entenda os riscos ▼ e comece com poucos cliques."
     keywords="Aurum Staking, staking cripto, staking Aurum Foundation, renda passiva criptomoedas, melhor staking"
     h1="Aurum Staking"
     subtitle="Ganhe rendimentos passivos em criptomoedas com o staking oficial da Aurum Foundation."

@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Suporte = () => (
   <ProductPage
     slug="suporte"
-    title="Suporte | Atendimento Oficial Aurum Foundation"
-    description="Central de suporte da Aurum Foundation: atendimento 24/7, WhatsApp, Telegram, abertura de chamados e SLA priorizado por nível de cliente."
+    title="▲ Suporte Aurum Foundation: Atendimento 24/7"
+    description="▲ Suporte Aurum Foundation: ajuda com cadastro, login, saques, cartões e produtos cripto. Canais oficiais e resposta rápida 24/7."
     keywords="suporte Aurum, atendimento Aurum Foundation, central de ajuda cripto, suporte 24/7"
     h1="Suporte Aurum Foundation"
     subtitle="Atendimento dedicado, multilíngue e disponível 24/7 para todo o ecossistema Aurum."

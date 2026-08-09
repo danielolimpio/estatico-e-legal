@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Blog = () => (
   <ProductPage
     slug="blog"
-    title="Blog Aurum Foundation | Cripto, IA e Mercado Digital"
-    description="Blog oficial da Aurum Foundation: análises de mercado cripto, atualizações de produto, tutoriais sobre IA, staking, exchange e cartões cripto."
+    title="▲ Blog Aurum Foundation: Cripto, IA e Mercado"
+    description="▲ Blog Aurum Foundation: análises de mercado ▲▼, novidades de produto e tutoriais sobre IA, staking, exchange e cartões cripto."
     keywords="blog Aurum, blog cripto, blog Aurum Foundation, análises cripto, conteúdo blockchain"
     h1="Blog Aurum Foundation"
     subtitle="Análises, tutoriais e novidades sobre o ecossistema Aurum, mercado cripto, inteligência artificial e finanças descentralizadas."

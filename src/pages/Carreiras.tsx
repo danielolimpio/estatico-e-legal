@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Carreiras = () => (
   <ProductPage
     slug="carreiras"
-    title="Carreiras | Trabalhe na Aurum Foundation"
-    description="Faça parte do time global da Aurum Foundation. Vagas em engenharia blockchain, IA, trading, produto, marketing e operações no ecossistema cripto."
+    title="▲ Carreiras Aurum Foundation: Vagas Globais"
+    description="▲ Carreiras na Aurum Foundation: vagas em engenharia, produto, marketing e operações. Trabalho remoto, time global e cultura de alta performance."
     keywords="carreiras Aurum, vagas Aurum Foundation, trabalhar com cripto, jobs blockchain, vagas Web3"
     h1="Carreiras na Aurum Foundation"
     subtitle="Junte-se a uma equipe global construindo o futuro das finanças descentralizadas."

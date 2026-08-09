@@ -6,8 +6,8 @@ const ZeusAI = () => (
     heroImage={zeusHero}
     heroImageAlt="Zeus AI Trading Bot da Aurum Foundation - inteligência artificial para trading de criptomoedas"
     slug="zeus-ai"
-    title="Zeus AI Trading Bot | Aurum Foundation — Robô de Trading com IA"
-    description="Zeus AI da Aurum Foundation: robô de trading automatizado com inteligência artificial que opera 24/7 em criptomoedas. Conheça o Zeus AI Bot oficial."
+    title="▲ Zeus AI: Robô de Trading Cripto 24/7 com IA"
+    description="▲ Zeus AI: robô de trading da Aurum Foundation que opera 24/7 com IA proprietária. Veja como funciona, riscos ▼ e como ativar em minutos."
     keywords="Zeus AI, Zeus AI bot, Aurum Foundation Zeus, robô de trading cripto, trading bot inteligência artificial, bot Aurum"
     h1="Zeus AI Trading Bot"
     subtitle="O robô de trading com inteligência artificial da Aurum Foundation que opera 24/7 nos principais mercados de criptomoedas."

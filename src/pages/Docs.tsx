@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Docs = () => (
   <ProductPage
     slug="docs"
-    title="Documentação | Aurum Foundation - Guias Técnicos e API"
-    description="Documentação oficial da Aurum Foundation: guias do NeoBank, da Exchange, dos bots de IA, dos cartões e referência técnica para integradores."
+    title="▲ Documentação Aurum Foundation: Guias e API"
+    description="▲ Documentação oficial Aurum Foundation: guias passo a passo, referência de API e boas práticas para usar todo o ecossistema Aurum."
     keywords="documentação Aurum, docs Aurum Foundation, API Aurum, guia Aurum, manual cripto"
     h1="Documentação Aurum Foundation"
     subtitle="Guias práticos, referência técnica e melhores práticas para usar todo o ecossistema Aurum com segurança e eficiência."

@@ -4,7 +4,7 @@ const Cookies = () => (
   <ProductPage
     slug="cookies"
     title="Política de Cookies | Aurum Foundation"
-    description="Política de Cookies da Aurum Foundation: tipos de cookies utilizados, finalidades e como gerenciar suas preferências de navegação."
+    description="Política de Cookies Aurum Foundation: como utilizamos cookies para melhorar sua experiência."
     keywords="cookies Aurum, política de cookies Aurum Foundation, gerenciar cookies, LGPD cookies"
     h1="Política de Cookies"
     subtitle="Como a Aurum Foundation utiliza cookies para melhorar sua experiência e segurança."

@@ -6,8 +6,8 @@ const FlashLoans = () => (
     heroImage={flashHero}
     heroImageAlt="Flash Loans Aurum Foundation - empréstimos instantâneos DeFi automatizados"
     slug="flash-loans"
-    title="Flash Loans Aurum Foundation | Empréstimos Instantâneos DeFi"
-    description="Flash Loans da Aurum Foundation: empréstimos instantâneos para arbitragem em DeFi, sem colateral, com execução atômica em smart contracts."
+    title="▲ Flash Loans Aurum: Empréstimo DeFi em 1 Bloco"
+    description="▲ Flash Loans Aurum Foundation: empréstimos DeFi liquidados em 1 bloco para arbitragem. Requisitos, custos ▼ e exemplos práticos."
     keywords="flash loans, Aurum Foundation flash loans, empréstimo defi, arbitragem cripto, flash loan sem colateral"
     h1="Flash Loans"
     subtitle="Empréstimos instantâneos da Aurum Foundation para estratégias de arbitragem e otimização de capital em DeFi."

@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Imprensa = () => (
   <ProductPage
     slug="imprensa"
-    title="Imprensa | Aurum Foundation na Mídia Global"
-    description="Aurum Foundation na imprensa: Forbes, Entrepreneur, Cointelegraph, Bitcoin.com, Hackernoon e mais. Acesse releases, kit de imprensa e contato para mídia."
+    title="▲ Aurum Foundation na Mídia: Forbes e mais"
+    description="▲ Imprensa Aurum Foundation: cobertura na Forbes, Cointelegraph, Bitcoin.com e Entrepreneur. Kit de mídia, logos e contatos oficiais."
     keywords="imprensa Aurum, Aurum Foundation Forbes, Aurum Cointelegraph, press kit Aurum, mídia cripto"
     h1="Aurum Foundation na Imprensa"
     subtitle="Reconhecimento global como provedora de trading de nível institucional e infraestrutura financeira de nova geração."
