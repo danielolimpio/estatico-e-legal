@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Seguranca = () => (
   <ProductPage
     slug="seguranca"
-    title="Segurança | Aurum Foundation - Custódia e Proteção Institucional"
-    description="Conheça as práticas de segurança da Aurum Foundation: custódia institucional, criptografia, auditorias e monitoramento 24/7 do ecossistema cripto."
+    title="▲ Segurança Aurum: AES-256 e Cold Storage"
+    description="▲ Segurança Aurum Foundation: criptografia AES-256, cold storage, KYC/AML e auditorias contínuas. Veja as 7 camadas de proteção."
     keywords="segurança Aurum, custódia cripto, segurança Aurum Foundation, proteção criptomoedas, segurança blockchain"
     h1="Segurança Aurum Foundation"
     subtitle="Padrões institucionais de segurança aplicados a todo o ecossistema: custódia segregada, monitoramento 24/7 e auditoria contínua."

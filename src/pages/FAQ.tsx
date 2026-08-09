@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const FAQ = () => (
   <ProductPage
     slug="faq"
-    title="FAQ | Perguntas Frequentes - Aurum Foundation"
-    description="Tire suas dúvidas sobre a Aurum Foundation: cadastro, segurança, cartões, exchange, bots de IA, staking, taxas e suporte."
+    title="▲ FAQ Aurum Foundation: 20+ Dúvidas Respondidas"
+    description="▲ FAQ Aurum Foundation: 20+ respostas sobre cadastro, login, Zeus AI, staking, exchange, Cartão Aurum, taxas ▼ e segurança."
     keywords="FAQ Aurum, perguntas frequentes Aurum, dúvidas Aurum Foundation, suporte cripto"
     h1="Perguntas Frequentes"
     subtitle="Tudo o que você precisa saber sobre a Aurum Foundation em um só lugar."

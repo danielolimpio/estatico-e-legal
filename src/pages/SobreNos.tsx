@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const SobreNos = () => (
   <ProductPage
     slug="sobre-nos"
-    title="Sobre Nós | Aurum Foundation - Ecossistema Cripto Global"
-    description="Conheça a Aurum Foundation: missão, visão, equipe global e ecossistema integrado de produtos cripto, IA e neobanking de nível institucional."
+    title="▲ Sobre a Aurum Foundation: 3 Licenças Globais"
+    description="▲ Aurum Foundation: 3 licenças internacionais, sede em Hong Kong e operação global. Conheça a missão, o time e o ecossistema completo."
     keywords="sobre Aurum Foundation, equipe Aurum, missão Aurum, empresa cripto, fundadores Aurum"
     h1="Sobre a Aurum Foundation"
     subtitle="Construindo o futuro financeiro com estratégias de gestão seguras, inovadoras e impulsionadas por inteligência artificial."

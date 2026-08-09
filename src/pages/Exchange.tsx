@@ -6,8 +6,8 @@ const Exchange = () => (
     heroImage={exchangeHero}
     heroImageAlt="Exchange Aurum Foundation - plataforma de trading de criptomoedas com gráficos profissionais"
     slug="exchange"
-    title="Exchange Aurum Foundation | Compre, Venda e Troque Cripto"
-    description="Exchange Aurum Foundation: corretora oficial para comprar, vender e trocar criptomoedas com taxas competitivas, alta liquidez e segurança institucional."
+    title="▲ Aurum Exchange: 100+ Pares Cripto e Liquidez"
+    description="▲ Aurum Exchange: negocie 100+ pares cripto com liquidez global, taxas competitivas ▼ e segurança institucional da Aurum Foundation."
     keywords="exchange Aurum, Aurum Foundation exchange, comprar criptomoedas, corretora cripto, exchange descentralizada"
     h1="Exchange Aurum Foundation"
     subtitle="A corretora oficial da Aurum Foundation para negociar criptomoedas com liquidez global e taxas competitivas."

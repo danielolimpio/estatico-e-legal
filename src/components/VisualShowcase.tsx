@@ -4,7 +4,7 @@ import Picture, { type PictureSource } from './Picture';
 import zeusAi from '@/assets/zeus-ai-trading-bot-aurum-foundation.webp?picture';
 import exchange from '@/assets/exchange-aurum-foundation-plataforma-trading.webp?picture';
 import cards from '@/assets/cartao-aurum-cripto-debito.webp?picture';
-import phone from '@/assets/aurum-neobank-app-cartao-aurum-nova.png?picture';
+import phone from '@/assets/aurum-neobank-app-cartao-aurum-nova.webp?picture';
 
 const CTA = 'https://backoffice.aurum.foundation/u/5CW428';
 

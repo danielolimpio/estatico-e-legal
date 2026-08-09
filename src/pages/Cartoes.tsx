@@ -6,8 +6,8 @@ const Cartoes = () => (
     heroImage={hero}
     heroImageAlt="Cartões Aurum - Nova, Imperium, World Elite e Infinity da Aurum Foundation"
     slug="cartoes"
-    title="Cartões Aurum | Nova, Imperium, World Elite e Infinity"
-    description="Conheça a linha completa de cartões cripto Aurum: Nova, Imperium, World Elite e Infinity. Gaste suas criptomoedas globalmente com cashback e benefícios premium."
+    title="▲ Cartões Aurum: 4 Níveis e Benefícios Globais"
+    description="▲ Cartões Aurum: 4 níveis (Nova, Imperium, World Elite e Infinity). Compare limites, cashback e taxas ▼ antes de escolher o seu."
     keywords="cartões Aurum, cartão Nova, cartão Imperium, cartão World Elite, cartão Infinity, cartão cripto"
     h1="Cartões Aurum"
     subtitle="Quatro níveis. Possibilidades ilimitadas. Cada Cartão Aurum libera gastos globais — e cada nível desbloqueia mais benefícios."

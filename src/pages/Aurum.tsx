@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Aurum = () => (
   <ProductPage
     slug="aurum"
-    title="Aurum | Ecossistema Cripto Aurum Foundation"
-    description="Aurum: ecossistema cripto da Aurum Foundation com Zeus AI, staking, exchange, cartão Aurum e flash loans. Conheça tudo sobre Aurum."
+    title="▲ Aurum: os 8 Produtos do Ecossistema Aurum"
+    description="▲ Aurum é o ecossistema da Aurum Foundation: Zeus AI, staking, exchange, flash loans e Cartão Aurum. Veja os 8 produtos e como começar em 3 passos."
     keywords="aurum, aurum foundation, aurum cripto, aurum brasil, aurum.foundation, aurumfoundation, aurum infinity, aurum broker, aurum bot, aurum bot ai, aurumbotai, aurum card, aurum exchange, aurum staking, aurum login, aurum cadastro, aurum app, aurum logo, backoffice aurum, arum, arum foundation, aurum fundation, zeus ai aurum"
     h1="Aurum: o ecossistema cripto da Aurum Foundation"
     subtitle="Tudo sobre Aurum em um só lugar: produtos, tecnologia, segurança e como começar."

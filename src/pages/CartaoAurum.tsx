@@ -6,8 +6,8 @@ const CartaoAurum = () => (
     heroImage={cartaoNova}
     heroImageAlt="Cartão Aurum Nova Visa Business - cartão de débito cripto da Aurum Foundation"
     slug="cartao-aurum"
-    title="Cartão Aurum | Cartão de Débito Cripto da Aurum Foundation"
-    description="Cartão Aurum: use suas criptomoedas no dia a dia com o cartão de débito oficial da Aurum Foundation, aceito mundialmente."
+    title="▲ Cartão Aurum: Cripto em 180+ Países"
+    description="▲ Cartão Aurum: gaste cripto em 180+ países com conversão automática. Limites, tarifas ▼, benefícios e como solicitar o seu."
     keywords="cartão Aurum, cartão Aurum Foundation, cartão débito cripto, cartão de criptomoedas, Aurum card"
     h1="Cartão Aurum"
     subtitle="O cartão de débito cripto oficial da Aurum Foundation para usar suas criptomoedas em qualquer lugar do mundo."

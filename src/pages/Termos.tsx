@@ -4,7 +4,7 @@ const Termos = () => (
   <ProductPage
     slug="termos"
     title="Termos de Uso | Aurum Foundation"
-    description="Leia os Termos de Uso oficiais da Aurum Foundation para acesso e utilização do ecossistema cripto, NeoBank, Exchange, cartões e bots de IA."
+    description="Termos de Uso da Aurum Foundation: condições de uso da plataforma cripto e dos produtos do ecossistema Aurum."
     keywords="termos de uso Aurum, termos Aurum Foundation, contrato cripto, condições de uso"
     h1="Termos de Uso"
     subtitle="Condições gerais para o uso dos produtos e serviços do ecossistema Aurum Foundation."

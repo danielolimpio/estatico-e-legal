@@ -3,8 +3,8 @@ import ProductPage from '@/components/ProductPage';
 const Contato = () => (
   <ProductPage
     slug="contato"
-    title="Contato | Fale com a Aurum Foundation"
-    description="Fale com a Aurum Foundation: WhatsApp, Telegram, redes sociais, suporte ao cliente e atendimento institucional para parceiros e imprensa."
+    title="▲ Contato Aurum Foundation: Suporte Oficial 24/7"
+    description="▲ Fale com a Aurum Foundation: WhatsApp, e-mail e Telegram oficiais. Atendimento 24/7 para clientes, parceiros e imprensa."
     keywords="contato Aurum, falar com Aurum Foundation, WhatsApp Aurum, suporte Aurum, atendimento cripto"
     h1="Contato Aurum Foundation"
     subtitle="Atendimento humano, suporte técnico e canais oficiais para clientes, parceiros e imprensa."
