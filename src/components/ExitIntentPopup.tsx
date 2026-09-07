@@ -1,8 +1,8 @@
 import { useEffect, useState, useCallback } from "react";
 import { X } from "lucide-react";
-import binanceLogo from "@/assets/binance-logo.png.asset.json";
-import bybitLogo from "@/assets/bybit-logo.webp.asset.json";
-import bitgetLogo from "@/assets/bitget-logo.png.asset.json";
+import binanceLogo from "@/assets/binance-logo.png";
+import bybitLogo from "@/assets/bybit-logo.webp";
+import bitgetLogo from "@/assets/bitget-logo.png";
 
 const WHATSAPP_URL =
   "https://wa.me/5512982519116?text=" +
