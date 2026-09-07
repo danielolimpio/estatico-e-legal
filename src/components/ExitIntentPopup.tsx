@@ -17,9 +17,9 @@ const WhatsAppIcon = ({ className = "" }: { className?: string }) => (
 );
 
 const exchanges = [
-  { name: "Binance", url: binanceLogo.url },
-  { name: "Bybit", url: bybitLogo.url },
-  { name: "Bitget", url: bitgetLogo.url },
+  { name: "Binance", url: binanceLogo },
+  { name: "Bybit", url: bybitLogo },
+  { name: "Bitget", url: bitgetLogo },
 ];
 
 const ExitIntentPopup = () => {
