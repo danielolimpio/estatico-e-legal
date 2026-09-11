@@ -43,7 +43,7 @@ const HeroSection = () => {
               A <strong>Aurum Foundation</strong> oferece um ecossistema completo de investimentos em criptomoedas com inteligência artificial e blockchain — Zeus AI Trading Bot, staking, flash loans, exchange e cartão Aurum, com segurança institucional.
             </p>
             <p className="text-base text-muted-foreground mb-8 max-w-2xl mx-auto lg:mx-0 animate-fade-up animation-delay-200">
-              Saiba mais sobre o ecossistema <a href="/aurum/" className="text-primary hover:underline font-semibold">Aurum</a> e conheça todos os produtos da marca <a href="/aurum/" className="text-primary hover:underline font-semibold">Aurum Foundation</a> em um só lugar.
+              Saiba mais sobre o ecossistema <a href="/aurum/" className="text-primary hover:underline font-semibold">Aurum</a> e conheça todos os produtos da marca <a href="/aurum/" className="text-primary hover:underline font-semibold">Aurum Foundation</a> em um só lugar. Veja também o <a href="/aurum-bot/" className="text-primary hover:underline font-semibold">Aurum Bot (Zeus AI)</a>, o <a href="/cartao-aurum/" className="text-primary hover:underline font-semibold">Cartão Aurum</a> e entenda se a <a href="/aurum-foundation-e-confiavel/" className="text-primary hover:underline font-semibold">Aurum Foundation é confiável</a>.
             </p>
 
             {/* CTA Buttons */}
