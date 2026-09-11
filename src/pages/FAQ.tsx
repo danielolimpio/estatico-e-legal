@@ -9,7 +9,7 @@ const FAQ = () => (
     keywords="FAQ Aurum Foundation, Aurum Foundation é confiável, como funciona o sistema Aurum, perguntas frequentes Aurum, dúvidas Aurum Foundation, suporte Aurum, cadastro Aurum Foundation, taxas Aurum Foundation, saque Aurum Foundation"
     h1="Perguntas Frequentes sobre a Aurum Foundation"
     subtitle="Respostas oficiais e diretas sobre o ecossistema Aurum Foundation: confiabilidade, produtos, cadastro, taxas e suporte."
-    intro="Se você chegou aqui pesquisando "Aurum Foundation é confiável?", "Como funciona o sistema?" ou simplesmente quer entender melhor o ecossistema antes de criar sua conta, reunimos as principais dúvidas em um só lugar. As respostas abaixo são baseadas na documentação oficial, nos Termos de Uso e na experiência real dos usuários do backoffice Aurum Foundation."
+    intro={`Se você chegou aqui pesquisando "Aurum Foundation é confiável?", "Como funciona o sistema?" ou simplesmente quer entender melhor o ecossistema antes de criar sua conta, reunimos as principais dúvidas em um só lugar. As respostas abaixo são baseadas na documentação oficial, nos Termos de Uso e na experiência real dos usuários do backoffice Aurum Foundation.`}
     heroImage={faqHero}
     heroImageAlt="FAQ Aurum Foundation: plataforma de trading e produtos cripto integrados"
     sections={[
