@@ -26,12 +26,16 @@ import Termos from "./pages/Termos";
 import Privacidade from "./pages/Privacidade";
 import Cookies from "./pages/Cookies";
 import Aurum from "./pages/Aurum";
+import AurumBot from "./pages/AurumBot";
+import AurumFoundationConfiavel from "./pages/AurumFoundationConfiavel";
 import ExitIntentPopup from "./components/ExitIntentPopup";
 
 const queryClient = new QueryClient();
 
 const routes: Array<[string, React.ComponentType]> = [
   ["/aurum", Aurum],
+  ["/aurum-bot", AurumBot],
+  ["/aurum-foundation-e-confiavel", AurumFoundationConfiavel],
   ["/zeus-ai", ZeusAI],
   ["/staking", Staking],
   ["/flash-loans", FlashLoans],

@@ -3,6 +3,7 @@ import aurumLogo from '@/assets/aurum-logo.webp';
 const footerLinks = {
   produto: [
     { label: 'Aurum', href: '/aurum/' },
+    { label: 'Aurum Bot (Zeus AI)', href: '/aurum-bot/' },
     { label: 'Plataforma', href: '/plataforma/' },
     { label: 'Cartões', href: '/cartoes/' },
     { label: 'Exchange', href: '/exchange/' },
@@ -10,6 +11,7 @@ const footerLinks = {
   ],
   empresa: [
     { label: 'Sobre Nós', href: '/sobre-nos/' },
+    { label: 'Aurum Foundation é confiável?', href: '/aurum-foundation-e-confiavel/' },
     { label: 'Carreiras', href: '/carreiras/' },
     { label: 'Imprensa', href: '/imprensa/' },
     { label: 'Contato', href: '/contato/' },
