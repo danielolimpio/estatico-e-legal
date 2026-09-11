@@ -8,7 +8,7 @@ const CartaoAurum = () => (
     slug="cartao-aurum"
     title="▲ Cartão Aurum: Cripto em 180+ Países"
     description="▲ Cartão Aurum: gaste cripto em 180+ países com conversão automática. Limites, tarifas ▼, benefícios e como solicitar o seu."
-    keywords="cartão Aurum, cartão Aurum Foundation, cartão débito cripto, cartão de criptomoedas, Aurum card"
+    keywords="aurum credit card, aurum card, cartão Aurum, cartão de crédito Aurum, cartão Aurum Foundation, aurum foundation credit card, cartão débito cripto, cartão de criptomoedas, aurum visa card, cartão cripto internacional"
     h1="Cartão Aurum"
     subtitle="O cartão de débito cripto oficial da Aurum Foundation para usar suas criptomoedas em qualquer lugar do mundo."
     intro="Com o Cartão Aurum você converte e gasta criptomoedas em milhões de estabelecimentos, com cashback em ativos da Aurum Foundation, segurança avançada e gestão completa pelo aplicativo."
